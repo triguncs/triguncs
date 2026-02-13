@@ -1,4 +1,4 @@
-# Hey There, I'm Skyluf!
+# Hey There, I'm Trigun!
 
 I'm a rookie programmer. 
 
